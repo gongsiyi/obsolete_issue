@@ -1,4 +1,4 @@
-# The Distribution, Reference and Explanation of Obsolete Issue Report: An Empirical Study
+# The Pollution from Obsolete Issue Report: An Empirical Study
 
 ## Project summary
 
